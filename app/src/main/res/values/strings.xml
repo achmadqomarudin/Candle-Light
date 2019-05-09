@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Candle Light</string>
+    
+    <!-- Adsense -->
+    <string name="ad_id">ca-app-pub-2429674496578534/9870947809</string>
+
+     <!-- StartApp -->
+    <string name="start_app_app_id">209586184</string>
+    <string name="start_app_developer_id">107161404</string>
+</resources>
